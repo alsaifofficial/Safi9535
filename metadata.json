@@ -1,0 +1,5 @@
+{
+  "name": "AI Tool Hub",
+  "description": "A curated directory of AI tools. Discover, compare, and find the best AI tools for any use case. Features search, filtering, tool submissions, and a mock admin panel.",
+  "requestFramePermissions": []
+}
